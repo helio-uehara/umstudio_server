@@ -1,9 +1,28 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "menuItens": [
+    {
+      "type": "link",
+      "_class": "modal-sobre",
+      "href": "#sobre",
+      "text": "Sobre"
+    },
+    {
+      "type": "anchor",
+      "_class": "",
+      "href": "#reel",
+      "text": "Reel"
+    },
+    {
+      "type": "anchor",
+      "_class": "",
+      "href": "#works",
+      "text": "Trabalhos"
+    },
+    {
+      "type": "link",
+      "_class": "modal-politica",
+      "href": "#politica-de-privacidade",
+      "text": "Política de Privacidade"
+    }
+  ]
 }
