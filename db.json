@@ -51,5 +51,43 @@
     "about": "<h2>QUEM SOMOS</h2><p>Somos uma das produtoras com o maior índice de felicidade entre os seus clientes. E olha que trabalhamos com os maiores grupos publicitários, um pessoal exigente e sério pacas.</p><p>Ok, faltou modéstia, mas é difícil esconder esse orgulho. :-)</p><p>Esse processo de satisfação começa por uma equipe motivada e organizada, que trabalha com processos ágeis de produção, passa pela construção de parcerias duradouras junto a clientes e termina em entregas sólidas, onde leões e outros prêmios super bacanas são consequência e não objetivo.</p><p>Aliás, gerência de projetos é algo tão importante no nosso DNA que a anos somos o patrocinador master do <strong>INSTITUTO MESTRE GP</strong>, um projeto construído para ajudar na disseminação de boas práticas de gerência de projetos no mercado.</p><p>Agora não fique achando que ligamos para o tamanho do projeto. O que nos move é o desafio e, para melhor atender a eles, criamos 2 times de especialistas:</p><h3>UM STUDIO MOTION</h3><p>Nosso time responsável pela produção de mídia display, DCO, filmes para posts sociais, filmes para OOH, filtros para Instagram/FB e realidade aumentada. É composto por programadores, motion designers e modeladores 3D.</p><h3>UM STUDIO CODE</h3><p>Time que cuida da produção de sites, landpages, sistemas e aplicativos mobile. É composto por programadores de front-end, de back-end e de APPs.</p>",
     "policy": "<h2>Política de Cookies</h2><p>Utilizamos cookies para melhorar o desempenho e a sua experiência como utilizador no nosso site.</p><strong>O que são cookies?</strong><p>Os cookies são pequenos arquivos de texto que um site, quando visitado, coloca no computador do usuário ou no seu dispositivo móvel, através do navegador de internet (browser). A colocação de cookies ajudará o site a reconhecer o seu dispositivo numa próxima visita. Usamos o termo 'cookies' nesta política para referir todos os arquivos que recolhem informações desta forma.</p><p>Os cookies utilizados não recolhem informação que identifica o usuário, no entanto, se já for nosso cliente poderemos monitorar as suas visitas ao site desde que, pelo menos, por uma vez, tenha iniciado a sua navegação a partir de alguma comunicação enviada por nós, por exemplo, SMS e e-mail.</p><p>Os cookies recolhem também informações genéricas, designadamente a forma como os usuários chegam e utilizam os sites ou a zona do país/países através do qual acedem ao site, etc.</p><p>Os cookies retêm apenas informação relacionada com as suas preferências.</p><p>A qualquer momento o usuário pode, através do seu navegador de internet (browser) decidir ser notificado sobre a recepção de cookies, bem como bloquear a respectiva entrada no seu sistema.</p><p>A recusa de uso de cookies no site, pode resultar na impossibilidade de ter acesso a algumas das suas áreas ou de receber informação personalizada.</p><strong>Para que servem os cookies?</strong><p>Os cookies são usados para ajudar a determinar a utilidade, interesse e o número de utilizações dos sites, permitindo uma navegação mais rápida e eficiente e eliminando a necessidade de introduzir repetidamente as mesmas informações.</p><strong>Que tipo de cookies utilizamos?</strong><p>Os nossos cookies têm diferentes funções:</p><p>Cookies essenciais - Alguns cookies são essenciais para acessar a áreas específicas do nosso site. Permitem a navegação no site e a utilização das suas aplicações, tal como acessar áreas seguras do site através de login. Sem estes cookies, os serviços que o exijam não podem ser prestados.</p><p>Cookies analíticos - Utilizamos estes cookies para analisar a forma como os usuários usam o site e monitorar a performance deste. Isto permite-nos fornecer uma experiência de alta qualidade ao personalizar a nossa oferta e rapidamente identificar e corrigir quaisquer problemas que surjam. Por exemplo, usamos cookies de desempenho para saber quais as páginas mais populares, qual o método de ligação entre páginas que é mais eficaz, ou para determinar a razão de algumas páginas estarem a receber mensagens de erro. Baseado na utilização do site, podemos também utilizar estes cookies para destacar artigos ou serviços do site que pensamos ser do interesse dos usuários. Estes cookies são utilizados apenas para efeitos de criação e análise estatística, sem nunca recolher informação de carácter pessoal.</p><p>Cookies de funcionalidade - Utilizamos cookies de funcionalidade para nos permitir relembrar as preferências do usuário. Por exemplo, os cookies evitam digitar o nome do utilizador cada vez que este acede ao site. Também usamos cookies de funcionalidade para fornecer serviços avançados ao usuário, como por exemplo efetuar comentários a um artigo. Em resumo, os cookies de funcionalidade guardam as preferências do usuário relativamente à utilização do site, de forma que não seja necessário voltar a configurar o site cada vez que o visita.</p><p>Cookies de terceiros - Servem para medir o sucesso de aplicações e a eficácia da publicidade de terceiros no nosso site.</p><p>Cookies de publicidade - Servem para direcionar a publicidade em função dos interesses de cada usuário e do número de visitas que realizou, permitindo limitar o número de vezes da exibição do anúncio. Estes cookies ajudam a medir a eficácia da publicidade.</p><strong>Os cookies utilizados podem ser:</strong><p>Cookies permanentes - Ficam armazenados ao nível do navegador de internet (browser) nos seus dispositivos de acesso (pc, mobile e tablet) e são utilizados sempre que o usuário faz uma nova visita ao site. Geralmente são utilizados para direcionar a navegação de acordo com os interesses do usuário, permitindo-nos prestar um serviço mais personalizado.</p><p>Cookies de sessão - São temporários, permanecem nos cookies do seu navegador de internet (browser) até sair do site. A informação obtida permite identificar problemas e fornecer uma melhor experiência de navegação.</p><p>Depois de autorizar o uso de cookies, o usuário pode sempre desativar parte ou a totalidade dos nossos cookies.</p><p>Todos os browsers permitem ao utilizador aceitar, recusar ou apagar cookies, nomeadamente através da seleção das definições apropriadas no respetivo navegador. Pode configurar os cookies no menu 'opções' ou 'preferências' do seu browser.</p><p>Note-se que, ao desativar cookies, pode impedir que alguns serviços da web funcionem corretamente, afetando, parcial ou totalmente, a navegação no website.</p><p>Recordamos que ao desativar os cookies, partes do nosso site podem não funcionar corretamente.</p>",
     "policyBar": "<h2>Política de Cookies</h2><p>Usamos os cookies (proprietários e de terceiros) para ajudár você a navegar nossos sites e exibir anúncios de acordo com as configurações do seu navegador. Ao acessar nossas páginas, você concorda com o uso dos cookies. Para mais informações sobre cookies, consulte nossa <a href='#politica-de-privacidade'>Política de Cookies</a>.</p>"
-  }
+  },
+  "projects": [
+    {
+      "content": "natura",
+      "type-content": "banner",
+      "type": "motion",
+      "format": "fullscreen",
+      "href": "#natura-oud-vanilla",
+      "target": "_self",
+      "title": "Natura Oud Vanilla",
+      "agency": "DPZ",
+      "thumb-color": "https://www.umstudio.com/wp-content/uploads/2024/02/640X880-NATURA-OUD-VANILLA-1.jpg",
+      "link-filter": ""
+    },
+    {
+      "content": "santander",
+      "type-content": "banner",
+      "type": "motion",
+      "format": "fullscreen",
+      "href": "#santander-gamification",
+      "target": "_self",
+      "title": "Santander Gamification",
+      "agency": "Suno Creators",
+      "thumb-color": "https://www.umstudio.com/wp-content/uploads/2024/02/640X440-SANTANDER-1.jpg",
+      "link-filter": ""
+    },
+    {
+      "content": "https://onelove.umstudio.com.br/",
+      "type-content": "url",
+      "type": "code",
+      "format": "",
+      "href": "https://onelove.umstudio.com.br/",
+      "target": "_blank",
+      "title": "One Love",
+      "agency": "Almap",
+      "thumb-color": "https://www.umstudio.com/wp-content/uploads/2024/02/640X440-onelove-2.jpg",
+      "link-filter": ""
+    }
+  ]
 }
