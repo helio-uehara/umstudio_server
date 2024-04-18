@@ -26,14 +26,6 @@
     },
     {
       "type": "modal",
-      "href": "#umstudio-reel",
-      "text": "Play reel",
-      "contentType": "boxVideo", 
-      "content": "playReel", 
-      "closeBack": "#reel"
-    },
-    {
-      "type": "modal",
       "href": "#politica-de-privacidade",
       "text": "Política de Privacidade",
       "contentType": "boxText", 
