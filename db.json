@@ -1,28 +1,44 @@
 {
   "menuItens": [
     {
-      "type": "link",
-      "_class": "modal-sobre",
+      "type": "modal",
       "href": "#sobre",
-      "text": "Sobre"
+      "text": "Sobre",
+      "contentType": "boxText", 
+      "content": "about", 
+      "closeBack": "#home"
     },
     {
       "type": "anchor",
-      "_class": "",
       "href": "#reel",
-      "text": "Reel"
+      "text": "Reel",
+      "contentType": "", 
+      "content": "", 
+      "closeBack": ""
     },
     {
       "type": "anchor",
-      "_class": "",
-      "href": "#trabalhos",
-      "text": "Trabalhos"
+      "href": "#works",
+      "text": "Trabalhos",
+      "contentType": "", 
+      "content": "", 
+      "closeBack": ""
     },
     {
-      "type": "link",
-      "_class": "modal-politica",
+      "type": "modal",
+      "href": "#umstudio-reel",
+      "text": "Play reel",
+      "contentType": "boxVideo", 
+      "content": "playReel", 
+      "closeBack": "#reel"
+    },
+    {
+      "type": "modal",
       "href": "#politica-de-privacidade",
-      "text": "Política de Privacidade"
+      "text": "Política de Privacidade",
+      "contentType": "boxText", 
+      "content": "policy", 
+      "closeBack": "#home"
     }
   ],
   "info": {
@@ -63,6 +79,7 @@
       "title": "Natura Oud Vanilla",
       "agency": "DPZ",
       "thumb-color": "https://www.umstudio.com/wp-content/uploads/2024/02/640X880-NATURA-OUD-VANILLA-1.jpg",
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/natura",
       "link-filter": ""
     },
     {
@@ -75,6 +92,7 @@
       "title": "Santander Gamification",
       "agency": "Suno Creators",
       "thumb-color": "https://www.umstudio.com/wp-content/uploads/2024/02/640X440-SANTANDER-1.jpg",
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/santander",
       "link-filter": ""
     },
     {
@@ -87,6 +105,7 @@
       "title": "One Love",
       "agency": "Almap",
       "thumb-color": "https://www.umstudio.com/wp-content/uploads/2024/02/640X440-onelove-2.jpg",
+      "src": "",
       "link-filter": ""
     }
   ]
