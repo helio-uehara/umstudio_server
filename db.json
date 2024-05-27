@@ -6,7 +6,7 @@
       "text": "Sobre",
       "contentType": "boxText", 
       "content": "about", 
-      "closeBack": "#home"
+      "closeGoTo": "#home"
     },
     {
       "type": "anchor",
@@ -14,7 +14,7 @@
       "text": "Reel",
       "contentType": "", 
       "content": "", 
-      "closeBack": ""
+      "closeGoTo": ""
     },
     {
       "type": "anchor",
@@ -22,7 +22,7 @@
       "text": "Trabalhos",
       "contentType": "", 
       "content": "", 
-      "closeBack": ""
+      "closeGoTo": ""
     },
     {
       "type": "modal",
@@ -30,7 +30,7 @@
       "text": "Política de Privacidade",
       "contentType": "boxText", 
       "content": "policy", 
-      "closeBack": "#home"
+      "closeGoTo": "#home"
     }
   ],
   "info": {
@@ -72,7 +72,7 @@
       "title": "Natura Oud Vanilla",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2024/02/640X880-NATURA-OUD-VANILLA-1.jpg",
       "linkFilter": "",
-      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/natura"
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "santander",
@@ -85,7 +85,7 @@
       "title": "Santander Gamification",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2024/02/640X440-SANTANDER-1.jpg",
       "linkFilter": "",
-      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/santander"
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "https://onelove.umstudio.com.br/",
@@ -124,7 +124,7 @@
       "title": "Novo Kaiak O2",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2023/11/640X880_KAIAK_COLORIDO.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "galeria_itau_payments",
@@ -137,7 +137,7 @@
       "title": "Itau Payments",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2023/11/640X880_ITAU_PAYMENTS_COLORIDO.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "https://tourdoorgulho.com.br/",
@@ -163,7 +163,7 @@
       "title": "Itaú Personnalité",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2023/09/640X880_ITAU_TUNEL-1.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "huggies-mais-abracos",
@@ -176,7 +176,7 @@
       "title": "Huggies mais abraços",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2023/09/640X880_HUGGIES_COLORIDO.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "https://valorant-nasa.umstudio.com.br/",
@@ -202,7 +202,7 @@
       "title": "Natura",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2023/04/640X880_NATURA_01.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "brahmaafrica",
@@ -215,7 +215,7 @@
       "title": "Brahma",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2023/03/640X880_BRAHMA_COLORIDO.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "tinder-akqa",
@@ -228,7 +228,7 @@
       "title": "Tinder",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2023/03/640X440_TINDER_COLORIDO.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "ItauPersonnaliteCartaoBlack",
@@ -241,7 +241,7 @@
       "title": "Itaú Personnalité Cartão Black",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2022/11/640X440_99_ITAU_PERSONNALITE_CARTOES_BLACK.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "tiktok-galvao",
@@ -254,7 +254,7 @@
       "title": "A voz do Galvão chegou no TikTok",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2022/11/640X880_TIK_TOK_TEXT_TO_SPEECH.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "RoKizKj9JrE",
@@ -435,7 +435,7 @@
       "title": "Sua vida é uma playlist Resso",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2021/10/640X880_RESSO_COLORIDO.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "tiktok-motion",
@@ -448,7 +448,7 @@
       "title": "#QuemTemTikTokTemTudo",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2021/10/640X880_TIKTOK_COLORIDO.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "http://www.davidtheagency.com/",
@@ -487,7 +487,7 @@
       "title": "Nova Amarok V6",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2020/11/amarok_small_color-1.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "https://gastromotiva.umstudio.com.br/",
@@ -513,7 +513,7 @@
       "title": "Hipoglos Cluster",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2020/11/640X880_HIPOGLOS_COLORIDO.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "8ALdAr8u8ys",
@@ -539,7 +539,7 @@
       "title": "Philadelphia Tudo Gostoso",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2020/11/640X440_PHILADELPHIA_COLORIDO.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "t7A1Lh-i05g",
@@ -565,7 +565,7 @@
       "title": "Nissan Guerrilha Attack",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2020/11/640X440_NISSAN_COLORIDO.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "TqxR7ajevIQ",
@@ -591,7 +591,7 @@
       "title": "Next Magia",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2020/11/640X440_NEXT_COLORIDO.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "CrsHHrF0MyA",
@@ -617,7 +617,7 @@
       "title": "J&#038;J Kids Day",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2020/11/640X880_JOHNSON_COLORIDO.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "Azc8-8pq6iE",
@@ -643,7 +643,7 @@
       "title": "Regional Amarok",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2020/11/640X440_AMAROK_COLORIDO.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "49NMLynucLk",
@@ -708,7 +708,7 @@
       "title": "Neutrogena Desconto",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2020/04/84_Neutrogena.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "83_Next_Esports",
@@ -721,7 +721,7 @@
       "title": "Next Games",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2020/04/83_Next_Esports.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "82_Youtube_Music",
@@ -734,7 +734,7 @@
       "title": "Youtube Music",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2020/04/82_Youtube_Music.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "81_Apex_Brasil",
@@ -747,7 +747,7 @@
       "title": "APEX Mapa de Oportunidades",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2020/04/81_Apex_Brasil.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "86_stella_artois",
@@ -760,7 +760,7 @@
       "title": "Sofisticadamente Simples",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2020/04/86_stella_artois.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "79_Smirnoff_Nova_Garrafa",
@@ -773,7 +773,7 @@
       "title": "Smirnoff Nova Garrafa",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2020/04/79_Smirnoff_Nova_Garrafa.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "77_johnnie_walker_GOT",
@@ -786,7 +786,7 @@
       "title": "Johnnie Walker GOT",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2020/04/77_johnnie_walker_GOT.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "74_guarana_maues",
@@ -799,7 +799,7 @@
       "title": "Guaraná Maues",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2020/04/74_guarana_maues.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "73_video_brahma_flights",
@@ -812,7 +812,7 @@
       "title": "Brahma Flights",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2020/04/73_video_brahma_flights.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "72_itau_rock_rio",
@@ -825,7 +825,7 @@
       "title": "Itaú Rock in Rio",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2020/04/72_itau_rock_rio.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "71_oetker_gelatinas",
@@ -838,7 +838,7 @@
       "title": "Dr Oetker Gelatinas",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2020/04/71_oetker_gelatinas.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "whirlpool_consul_embaixo",
@@ -851,7 +851,7 @@
       "title": "Whirlpool Consul &#8211; Embaixo",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2020/03/consul_color.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "PX5mb7Es5tk",
@@ -929,7 +929,7 @@
       "title": "Ford Mustang",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2018/06/65_ford_mustang-3.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "trident_camada_extra",
@@ -942,7 +942,7 @@
       "title": "Trident camada extra",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2018/06/67_Trident_X_Fresh.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "waze_lojas",
@@ -955,7 +955,7 @@
       "title": "Waze Lojas",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2018/06/66_waze_mobility-3.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "next_na_faixa",
@@ -968,7 +968,7 @@
       "title": "Next Na Faixa",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2018/06/68_next_uber_nafaixa.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "WcHQlJ-h99s",
@@ -1033,7 +1033,7 @@
       "title": "Havaianas Verão",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2017/11/51_havaianas_verao-1.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "brahma-sao-joao",
@@ -1046,7 +1046,7 @@
       "title": "Antarctica São João",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2017/11/48_brahma_sao_joao.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "ipiranga-motinho",
@@ -1059,7 +1059,7 @@
       "title": "Ipiranga Motinho",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2017/11/53_ipiranga-motinho-1.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "sao-lourenco",
@@ -1072,7 +1072,7 @@
       "title": "Água São Lourenço",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2017/11/50_agua_sao_lourenco.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "nissan-march",
@@ -1085,7 +1085,7 @@
       "title": "Nissan March",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2017/11/47_nissan_march-1.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "tim-wifi",
@@ -1098,7 +1098,7 @@
       "title": "TIM &#8211; Wifi Killers",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2017/11/49_tim_wifi_killers-1.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "sadia",
@@ -1111,7 +1111,7 @@
       "title": "Sadia",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2017/11/46_sadia.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "snoop",
@@ -1124,7 +1124,7 @@
       "title": "Havaianas Snoopy",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2017/11/39_havaianas_snoop.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "amstel",
@@ -1137,7 +1137,7 @@
       "title": "Amstel",
       "thumb": "https://www.umstudio.com/wp-content/uploads/2017/11/35_amstel-1.jpg",
       "linkFilter": "",
-      "src": ""
+      "src": "https://www.umstudio.com/wp-content/themes/umstudio/pecas/"
     },
     {
       "content": "6rTH5OWkGAg",
