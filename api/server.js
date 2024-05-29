@@ -18,12 +18,12 @@ const middlewares = jsonServer.defaults()
 
 server.use(middlewares)
 
-server.use((req, res, next) => {
-  // Defina o cabeçalho personalizado aqui, por exemplo:
-  res.header('X-Custom-Header', 'true');
-  // Chame next() para continuar com os middleware
-  next();
-});
+// server.use((req, res, next) => {
+//   // Defina o cabeçalho personalizado aqui, por exemplo:
+//   res.header('X-Custom-Header', 'true');
+//   // Chame next() para continuar com os middleware
+//   next();
+// });
 // Add this before server.use(router)
 server.use(jsonServer.rewriter({
     '/api/*': '/$1',
