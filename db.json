@@ -3,7 +3,7 @@
      {
         "type":"modal",
         "href":"#sobre",
-        "text":"Sobre",
+        "text":"Sobre 123",
         "contentType":"boxText",
         "content":"about",
         "closeGoTo":"#home"
