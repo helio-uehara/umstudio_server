@@ -20,15 +20,15 @@ server.use(middlewares)
 
 server.use((req, res, next) => {
   // Defina o cabeçalho personalizado aqui, por exemplo:
-  res.header('X-Custom-Header', 'Valor do Cabeçalho Personalizado');
+  res.header('X-Custom-Header', 'true');
   // Chame next() para continuar com os middleware
   next();
 });
 // Add this before server.use(router)
-// server.use(jsonServer.rewriter({
-//     '/api/*': '/$1',
-//     '/blog/:resource/:id/show': '/:resource/:id'
-// }))
+server.use(jsonServer.rewriter({
+    '/api/*': '/$1',
+    '/blog/:resource/:id/show': '/:resource/:id'
+}))
 server.use(router)
 server.listen(3333, () => {
     console.log('JSON Server is running')
