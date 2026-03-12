@@ -1,36 +1,28 @@
 {
   "menuItens":[
      {
-        "type":"modal",
+        "type":"modalAbout",
         "href":"#sobre",
         "text":"Sobre",
-        "contentType":"boxText",
-        "content":"about",
-        "closeGoTo":"#home"
+        "target": "_self"
      },
      {
         "type":"anchor",
         "href":"#reel",
         "text":"Reel",
-        "contentType":"",
-        "content":"",
-        "closeGoTo":""
+        "target": "_self"
      },
      {
         "type":"anchor",
-        "href":"#works",
+        "href":"#gallery",
         "text":"Trabalhos",
-        "contentType":"",
-        "content":"",
-        "closeGoTo":""
+        "target": "_self"
      },
      {
-        "type":"modal",
+        "type":"modalPolice",
         "href":"#politica-de-privacidade",
         "text":"Política de Privacidade",
-        "contentType":"boxText",
-        "content":"policy",
-        "closeGoTo":"#home"
+        "target": "_self"
      }
   ],
   "info":{
