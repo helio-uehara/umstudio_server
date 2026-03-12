@@ -4,25 +4,25 @@
         "type":"modalAbout",
         "href":"#sobre",
         "text":"Sobre",
-        "target": "_self"
+        "target":"_self"
      },
      {
         "type":"anchor",
         "href":"#reel",
         "text":"Reel",
-        "target": "_self"
+        "target":"_self"
      },
      {
         "type":"anchor",
         "href":"#gallery",
         "text":"Trabalhos",
-        "target": "_self"
+        "target":"_self"
      },
      {
         "type":"modalPolice",
         "href":"#politica-de-privacidade",
         "text":"Política de Privacidade",
-        "target": "_self"
+        "target":"_self"
      }
   ],
   "info":{
